@@ -20,11 +20,7 @@
     <finalName>${project.artifactId}</finalName>
   </build>
          
- <build>
-    <finalName>${project.artifactId}</finalName>
-  </build>
-
-  <dependencies>
+   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit-dep</artifactId>
